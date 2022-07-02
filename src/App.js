@@ -5,10 +5,6 @@ import NotFound from "./pages/NotFound";
 import { Routes, Route } from "react-router-dom";
 import NotFoundBlock from "./components/NotFoundBlock";
 
-
-
-
-
 function App() {
 
 
